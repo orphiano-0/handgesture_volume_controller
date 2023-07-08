@@ -5,7 +5,7 @@
 
 ![hand-landmarks.png](hand-landmarks.png)
 **[MediaPipe ](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)**
-### __Import necessary libraries__
+### __Install necessary libraries__
 
 `pip install numpy`
 
